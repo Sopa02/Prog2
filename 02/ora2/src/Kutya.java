@@ -29,7 +29,7 @@ public class Kutya {
             labakSzama = ujLabakSzama;
         }
     }
-    public int getLabakSzama(){return labakSzama};
+    public int getLabakSzama(){return labakSzama;}
 
     public double getSuly() {return suly;}
     public void setSuly(double ujSuly){
